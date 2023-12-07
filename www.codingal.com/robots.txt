@@ -1,0 +1,12 @@
+User-Agent: *
+Sitemap: https://www.codingal.com/sitemap.xml
+Disallow: /api/v1/
+Disallow: /api/__debug__/
+Disallow: /api/admin/
+Disallow: /api/ping/
+Disallow: /api/ckeditor/
+Disallow: /api/media/
+Disallow: /affiliate/
+Disallow: /blackops/
+Disallow: /dashboard/
+Disallow: /lp/
